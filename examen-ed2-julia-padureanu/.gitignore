@@ -1,4 +1,4 @@
 events
-layers/**/.clas
-**/lock.json
-bin/node_modules
+layers/**/*.class
+**lock.json
+src/**/node_modules
